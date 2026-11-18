@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Mechanical Engineer | Robotics & Mechatronics | UC Berkeley
+### Mechanical Engineer | Robotics & Mechatronics | UC Berkeley | https://www.linkedin.com/in/ashkar-jad/ | Resume
 
 I'm a Master's student in Mechanical Engineering at the University of California, Berkeley, specializing in robotics.
 
 I've been designing, building, and programming robots for over 8 years, with experience spanning mechanical design, embedded systems, robotic control, and research.
 
 I'm especially passionate about developing robotic systems that can make a real-world impact, particularly in medical and surgical robotics.
-
 
 ## Featured Projects
 
