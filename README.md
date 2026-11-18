@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Mechanical Engineer | Robotics & Mechatronics | UC Berkeley | https://www.linkedin.com/in/ashkar-jad/ | Resume
+### Mechanical Engineer | Robotics & Mechatronics | UC Berkeley
+
+📄 [Resume (PDF)](Jad_Ashkar_Resume.pdf) | 💼 [LinkedIn](https://www.linkedin.com/in/ashkar-jad/)
 
 I'm a Master's student in Mechanical Engineering at the University of California, Berkeley, specializing in robotics.
 
