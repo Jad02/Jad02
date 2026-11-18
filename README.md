@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Mechanical Engineer | Robotics & Mechatronics | UC Berkeley
 
-📄 [Resume (PDF)](Jad_Ashkar_Resume.pdf) | 💼 [LinkedIn](https://www.linkedin.com/in/ashkar-jad/)
+📄 [Resume (PDF)](https://drive.google.com/file/d/1tv_okAP2bNHo2UUQp6_Jk-tOAzo5HRxa/view?usp=sharing) | 💼 [LinkedIn](https://www.linkedin.com/in/ashkar-jad/)
 
 I'm a Master's student in Mechanical Engineering at the University of California, Berkeley, specializing in robotics.
 
@@ -64,7 +64,8 @@ Designed and prototyped an expandable vertebral body replacement implant for min
 
 ## 📬 Connect With Me
 
-- [GitHub](https://github.com/Jad02)
-- UC Berkeley — Master of Engineering in Mechanical Engineering
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashkar-jad/)
+- 📄 [Download My Resume](https://drive.google.com/file/d/1tv_okAP2bNHo2UUQp6_Jk-tOAzo5HRxa/view?usp=sharing)
+- 💻 [GitHub](https://github.com/Jad02)
 
 *More projects and technical documentation coming soon!*
