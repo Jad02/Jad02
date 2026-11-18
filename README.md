@@ -22,24 +22,33 @@ I've been designing, building, and programming robots for over 8 years, with exp
 
 I'm especially passionate about developing robotic systems that can make a real-world impact, particularly in medical and surgical robotics.
 
-## 🤖 Featured Projects
 
-### Dual-Arm Robot Teleoperation & Learning
-**Robotics | Simulation | Teleoperation | Robot Learning**
+## Featured Projects
 
-Currently developing a simulation environment and teleoperation framework for two xArm robotic manipulators, with the goal of collecting expert demonstrations for robot learning.
+### 🤖 Bimanual Robot Learning Platform
+**Robotics | Simulation | Teleoperation | Imitation Learning**
 
-### Wearable Acoustic Sensing Sleeve
+Developing a reproducible dual-arm robotics platform using two xArm manipulators, GELLO-style teleoperation controllers, GPU-parallelizable simulation, and a standardized framework for evaluating robot learning policies.
+
+[Explore Project](https://github.com/Jad02/Bimanual-Robot-Learning-Platform)
+
+---
+
+### 🦾 Wearable Acoustic Sensing Sleeve
 **Research | Soft Sensors | Signal Processing | Embedded Systems**
 
-Developed a wearable sensing system using fabric-embedded acoustic waveguides to estimate contact locations and forces. This research contributed to a publication at ICRA 2026.
+Developed a wearable sensing system using fabric-embedded acoustic waveguides for contact localization and force estimation. The project involved sensor prototyping, experimental testing, signal processing, and research published at ICRA 2026.
 
 [Explore Project](https://github.com/Jad02/Wearable-Acoustic-Sensing)
 
-### Expandable Spinal Implant
-**Medical Devices | CAD | FEA | Additive Manufacturing**
+---
 
-Designed and prototyped an expandable vertebral body replacement implant intended for minimally invasive surgical applications. The project involved iterative mechanical design, ANSYS simulations, surgeon feedback, and fabrication of a titanium prototype.
+### 🦴 Expandable Spinal Implant
+**Medical Devices | Mechanical Design | FEA | Additive Manufacturing**
+
+Designed and prototyped an expandable vertebral body replacement implant for minimally invasive spinal surgery. The project involved over 20 design iterations, ANSYS simulations, collaboration with surgeons, and the fabrication of a titanium prototype.
+
+[Explore Project](https://github.com/Jad02/Expandable-Spinal-Implant)
 
 ## 🛠️ Technical Skills
 
