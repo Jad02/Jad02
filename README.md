@@ -34,6 +34,8 @@ Currently developing a simulation environment and teleoperation framework for tw
 
 Developed a wearable sensing system using fabric-embedded acoustic waveguides to estimate contact locations and forces. This research contributed to a publication at ICRA 2026.
 
+[Explore Project](https://github.com/Jad02/Wearable-Acoustic-Sensing)
+
 ### Expandable Spinal Implant
 **Medical Devices | CAD | FEA | Additive Manufacturing**
 
